@@ -56,7 +56,10 @@ body.template-color-37 .bg_color--2{
 }
 
 .heading.yellow-color-2{
-	color:  #6f93dd;
+	color:  #222222;
+}
+h1.heading.heading-h3{
+	font-family: 'Poppins', sans-serif;
 }
 
 
@@ -66,7 +69,7 @@ a.bently-btn.bk-btn-white, button.bently-btn.bk-btn-white {
 }
 
 body.template-color-37 .title-separator.color-red::after, body.template-color-37 .title-separator.color-blue::after {
-    background:  #7b9de2;
+    background:  #222222;
 }
 
 .bg_color--5 {
@@ -81,3 +84,9 @@ body.template-color-37 .title-separator.color-red::after, body.template-color-37
 .project-area .messonry-button button.is-checked {
     color: #b4b4b4;
 }
+
+.logo .avitar{
+ width: 120px;
+ margin-bottom: 40px;
+}
+
